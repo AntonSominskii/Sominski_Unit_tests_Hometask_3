@@ -2,12 +2,6 @@ package seminars.third.tdd;
 
 import org.junit.jupiter.api.Test;
 
-import java.awt.*;
-import java.util.ArrayList;
-import org.junit.jupiter.api.Test;
-import java.util.ArrayList;
-import java.util.List;
-import static org.junit.jupiter.api.Assertions.*;
 import static org.junit.jupiter.api.Assertions.*;
 
 class UserRepositoryTest {
